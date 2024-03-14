@@ -11,11 +11,11 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 5: End the program.
 ### PROGRAM:
   
-Program to find distance between two points.
+#Program to find the distance between two points
 
-Developed by : Nandakesore J
+#Developed by : Nandakesore J
 
-Register Number : 212223240103
+#Register Number : 212223240103
 ```
 import math
 list1=[4,2]
@@ -26,7 +26,8 @@ print("%0.2f"%distance)
 
 ### OUTPUT:
 
-![alt text](<Screenshot 2024-03-11 185811.png>)
+![Screenshot 2024-03-14 194640](https://github.com/Nandakesore0210/DISTANCE-BETWEEN-TWO-POINTS/assets/149365088/c14bc015-d624-47ac-ba5e-1fc0fd8d84ff)
+
 
 ### RESULT:
 
